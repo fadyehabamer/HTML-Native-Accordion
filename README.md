@@ -11,3 +11,7 @@
 </details>
 ```
 [Live preview 😊](https://fadyehabamer.github.io/HTML-Native-Accordion/)
+
+@settings {
+  font-size: 100;
+}
