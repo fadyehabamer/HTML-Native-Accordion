@@ -10,8 +10,4 @@
   </p> 
 </details>
 ```
-[Live preview 😊](https://fadyehabamer.github.io/HTML-Native-Accordion/)
-
-@settings {
-  font-size: 100;
-}
+**[Live preview 😊]**(https://fadyehabamer.github.io/HTML-Native-Accordion/)
