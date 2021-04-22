@@ -10,4 +10,4 @@
   </p> 
 </details>
 ```
-**[Live preview 😊]**(https://fadyehabamer.github.io/HTML-Native-Accordion/)
+**[Live preview 😊]** (https://fadyehabamer.github.io/HTML-Native-Accordion/)
