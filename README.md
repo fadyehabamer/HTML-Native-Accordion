@@ -6,7 +6,7 @@
     Fady Ehab Amer
   </summary>
   <p> 
-    CS & Front-end web developer
+    CS student & Front-end web developer
   </p> 
 </details>
 ```
